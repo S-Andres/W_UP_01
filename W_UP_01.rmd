@@ -81,3 +81,4 @@ The value of P-value is lower so we must reject the null hypothesis. There is a 
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+I analyzed the data and found out which helper file was needed. We had the numerical- catagorical variables. From there we used the helper file to explain what the results were and why they were that way. I, then, came to the conclusion the hypothesis was wrong. Therefore, we dumped the hypothesis.
